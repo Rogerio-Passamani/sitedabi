@@ -1,0 +1,37 @@
+.cor-fundo{
+	background-color: #FFACAC;
+
+}
+
+.font-letra{
+	font-size: 1em;
+}
+
+.espaco{
+	padding: 20px;
+	margin-top: 31px;
+	text-align: center;
+}
+
+.trato-image{
+	width: 40%;
+	height:auto;
+	padding: 20px;
+}
+
+.trato-image2{
+	width: 60%;
+	height:auto;
+	padding: 20px;
+}
+
+footer{
+	background: #F56EB3;
+	color: #fff;
+	padding: 20px;
+	margin-top: 11px;
+}
+
+footer address:last-child{
+	margin-bottom: 0;
+}
